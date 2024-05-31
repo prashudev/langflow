@@ -278,7 +278,7 @@ def print_banner(host, port):
     )
     info_text = (
         "Collaborate, and contribute at our "
-        "[bold][link=https://github.com/logspace-ai/langflow]GitHub Repo[/link][/bold] :rocket:"
+        "[bold][link=https://github.com/prashudev/langflow]GitHub Repo[/link][/bold] :rocket:"
     )
 
     # Create a panel with the title and the info text, and a border around it

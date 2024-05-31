@@ -4,15 +4,15 @@
 
 <h3>Discover a simpler & smarter way to build around Foundation Models</h3>
 
-[![Release Notes](https://img.shields.io/github/release/logspace-ai/langflow)](https://github.com/logspace-ai/langflow/releases)
-[![Contributors](https://img.shields.io/github/contributors/logspace-ai/langflow)](https://github.com/logspace-ai/langflow/contributors)
-[![Last Commit](https://img.shields.io/github/last-commit/logspace-ai/langflow)](https://github.com/logspace-ai/langflow/last-commit)
-[![Open Issues](https://img.shields.io/github/issues-raw/logspace-ai/langflow)](https://github.com/logspace-ai/langflow/issues)
-[![LRepo-size](https://img.shields.io/github/repo-size/logspace-ai/langflow)](https://github.com/logspace-ai/langflow/repo-size)
-[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/logspace-ai/langflow)
+[![Release Notes](https://img.shields.io/github/release/logspace-ai/langflow)](https://github.com/prashudev/langflow/releases)
+[![Contributors](https://img.shields.io/github/contributors/logspace-ai/langflow)](https://github.com/prashudev/langflow/contributors)
+[![Last Commit](https://img.shields.io/github/last-commit/logspace-ai/langflow)](https://github.com/prashudev/langflow/last-commit)
+[![Open Issues](https://img.shields.io/github/issues-raw/logspace-ai/langflow)](https://github.com/prashudev/langflow/issues)
+[![LRepo-size](https://img.shields.io/github/repo-size/logspace-ai/langflow)](https://github.com/prashudev/langflow/repo-size)
+[![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/prashudev/langflow)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub star chart](https://img.shields.io/github/stars/logspace-ai/langflow?style=social)](https://star-history.com/#logspace-ai/langflow)
-[![GitHub fork](https://img.shields.io/github/forks/logspace-ai/langflow?style=social)](https://github.com/logspace-ai/langflow/fork)
+[![GitHub fork](https://img.shields.io/github/forks/logspace-ai/langflow?style=social)](https://github.com/prashudev/langflow/fork)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/langflow_ai.svg?style=social&label=Follow%20%40langflow_ai)](https://twitter.com/langflow_ai)
 [![](https://dcbadge.vercel.app/api/server/EqksyE2EX9?compact=true&style=flat)](https://discord.com/invite/EqksyE2EX9)
 [![HuggingFace Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/Logspace/Langflow)
@@ -20,8 +20,8 @@
 
 The easiest way to create and customize your flow
 
-<a href="https://github.com/logspace-ai/langflow">
-<img width="100%" src="https://github.com/logspace-ai/langflow/blob/dev/docs/static/img/new_langflow_demo.gif"></a>
+<a href="https://github.com/prashudev/langflow">
+<img width="100%" src="https://github.com/prashudev/langflow/blob/dev/docs/static/img/new_langflow_demo.gif"></a>
 
 # 📦 Installation
 
@@ -114,7 +114,7 @@ Follow our step-by-step guide to deploy Langflow on Google Cloud Platform (GCP) 
 
 Alternatively, click the **"Open in Cloud Shell"** button below to launch Google Cloud Shell, clone the Langflow repository, and start an **interactive tutorial** that will guide you through the process of setting up the necessary resources and deploying Langflow on your GCP project.
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/logspace-ai/langflow&working_dir=scripts/gcp&shellonly=true&tutorial=walkthroughtutorial_spot.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/cloudshell/open?git_repo=https://github.com/prashudev/langflow&working_dir=scripts/gcp&shellonly=true&tutorial=walkthroughtutorial_spot.md)
 
 ## Deploy on Railway
 
@@ -122,7 +122,7 @@ Alternatively, click the **"Open in Cloud Shell"** button below to launch Google
 
 ## Deploy on Render
 
-<a href="https://render.com/deploy?repo=https://github.com/logspace-ai/langflow/tree/main">
+<a href="https://render.com/deploy?repo=https://github.com/prashudev/langflow/tree/main">
 <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render" />
 </a>
 
@@ -156,7 +156,7 @@ Join our [Discord](https://discord.com/invite/EqksyE2EX9) server to ask question
 
 # 🌟 Contributors
 
-[![langflow contributors](https://contrib.rocks/image?repo=logspace-ai/langflow)](https://github.com/logspace-ai/langflow/graphs/contributors)
+[![langflow contributors](https://contrib.rocks/image?repo=logspace-ai/langflow)](https://github.com/prashudev/langflow/graphs/contributors)
 
 # 📄 License
 

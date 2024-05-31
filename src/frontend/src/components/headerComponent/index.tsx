@@ -112,7 +112,7 @@ export default function Header(): JSX.Element {
       <div className="header-end-division lg:w-[30%]">
         <div className="header-end-display">
           <a
-            href="https://github.com/logspace-ai/langflow"
+            href="https://github.com/prashudev/langflow"
             target="_blank"
             rel="noreferrer"
             className="header-github-link gap-2"

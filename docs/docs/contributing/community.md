@@ -17,7 +17,7 @@ Follow [@langflow_ai](https://twitter.com/langflow_ai) on **Twitter** to get the
 ---
 ## ⭐️ Star **Langflow** on GitHub
 
-You can "star" **Langflow** in [GitHub](https://github.com/logspace-ai/langflow).
+You can "star" **Langflow** in [GitHub](https://github.com/prashudev/langflow).
 
 By adding a star, other users will be able to find it more easily and see that it has been already useful for others.
 
@@ -25,7 +25,7 @@ By adding a star, other users will be able to find it more easily and see that i
 
 ## 👀 Watch the GitHub repository for releases
 
-You can "watch" **Langflow** in [GitHub](https://github.com/logspace-ai/langflow).
+You can "watch" **Langflow** in [GitHub](https://github.com/prashudev/langflow).
 
 
 If you select "Watching" instead of "Releases only" you will receive notifications when someone creates a new issue or question. You can also specify that you only want to be notified about new issues, discussions, PRs, etc.

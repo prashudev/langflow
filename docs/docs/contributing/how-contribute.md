@@ -1,6 +1,6 @@
 # How to contribute?
 
-👋 Hello there! We welcome contributions from developers of all levels to our open-source project on [GitHub](https://github.com/logspace-ai/langflow). If you'd like to contribute, please check our contributing guidelines and help make Langflow more accessible.
+👋 Hello there! We welcome contributions from developers of all levels to our open-source project on [GitHub](https://github.com/prashudev/langflow). If you'd like to contribute, please check our contributing guidelines and help make Langflow more accessible.
 
 As an open-source project in a rapidly developing field, we are extremely open
 to contributions, whether in the form of a new feature, improved infra, or better documentation.
